@@ -1,13 +1,13 @@
 {
-  "9771473968012": {
-    "codigo_barras": "9771473968012",
-    "nombre": "SUPERGLUE GOTITA",
-    "categoria": "Otros Rubros",
-    "imagen": null,
+  "999": {
+    "codigo_barras": "999",
+    "nombre": "PALETA COCIDA BAROL ESPECIAL",
+    "categoria": "Fiambrería",
+    "imagen": "https://carrefourar.vtexassets.com/arquivos/ids/843728/7797480026097_02.jpg?v=639161822050330000",
     "descripcion": "",
     "oferta": true,
-    "destacado": true,
-    "precio_minorista": 700.0,
+    "destacado": false,
+    "precio_minorista": 12000.0,
     "precio_mayorista": null
   }
 }
