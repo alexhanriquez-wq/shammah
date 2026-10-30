@@ -1,36 +1,75 @@
 {
-  "telefono_contacto": "",
-  "email": "",
-  "direccion": "",
+  "telefono_contacto": "+5493644338905",
+  "email": "maximilianocj3389@gmail.com",
+  "direccion": "Maipu S/N",
   "google_maps_url": "",
   "horarios": {
     "lunes": {
-      "abierto": false,
-      "intervalos": []
+      "abierto": true,
+      "intervalos": [
+        {
+          "desde": "08:00",
+          "hasta": "23:59"
+        }
+      ]
     },
     "martes": {
-      "abierto": false,
-      "intervalos": []
+      "abierto": true,
+      "intervalos": [
+        {
+          "desde": "08:00",
+          "hasta": "23:59"
+        }
+      ]
     },
     "miercoles": {
-      "abierto": false,
-      "intervalos": []
+      "abierto": true,
+      "intervalos": [
+        {
+          "desde": "08:00",
+          "hasta": "23:59"
+        }
+      ]
     },
     "jueves": {
-      "abierto": false,
-      "intervalos": []
+      "abierto": true,
+      "intervalos": [
+        {
+          "desde": "08:00",
+          "hasta": "23:59"
+        }
+      ]
     },
     "viernes": {
-      "abierto": false,
-      "intervalos": []
+      "abierto": true,
+      "intervalos": [
+        {
+          "desde": "08:00",
+          "hasta": "23:59"
+        }
+      ]
     },
     "sabado": {
-      "abierto": false,
-      "intervalos": []
+      "abierto": true,
+      "intervalos": [
+        {
+          "desde": "08:00",
+          "hasta": "23:59"
+        }
+      ]
     },
     "domingo": {
-      "abierto": false,
-      "intervalos": []
+      "abierto": true,
+      "intervalos": [
+        {
+          "desde": "00:00",
+          "hasta": "01:00"
+        },
+        {
+          "desde": "08:00",
+          "hasta": "19:00"
+        }
+      ]
     }
   }
 }
