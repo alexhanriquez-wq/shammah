@@ -1,0 +1,20 @@
+{
+	"id": "./",
+	"name": "Shammah",
+	"short_name": "Shammah",
+	"description": "Comprá tus productos de todos los días en Shammah.",
+	"lang": "es-AR",
+	"start_url": "./index.html",
+	"scope": "./",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"theme_color": "#1657a5",
+	"icons": [
+		{
+			"src": "./assets/logo.svg",
+			"sizes": "192x192 512x512",
+			"type": "image/svg+xml",
+			"purpose": "any maskable"
+		}
+	]
+}
